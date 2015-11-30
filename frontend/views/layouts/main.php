@@ -152,7 +152,7 @@ if(Yii::$app->user->isGuest)
             'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
         ]) //el breadcumbs es una clase de yii que pone como que la ruta de donde estas?>
         <?= Alert::widget() ?>
-        
+        <p>Hola</p>
         <?= $content //el contenido de las vistas a las que llamas?>
     </div>
     </section>
