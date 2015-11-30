@@ -1,0 +1,589 @@
+/*DISEÑO RESPONSIVO PARA DISPOSITIVOS MOVILES*/
+
+@media screen and (max-width: 480px) {
+
+	/*menu*/
+
+	nav {
+		/*outline: 2px red solid;*/
+	}
+	nav ul {
+		/*outline: 2px green solid;*/
+		display: block; 
+		overflow: hidden;
+	}
+	nav ul li {
+		/*outline: 2px black solid;*/
+		width: 100%;
+		/*display: block;*/
+	}
+	nav ul li a {
+		/*outline: 2px yellow solid;*/
+		/*display: block;*/
+	}
+
+
+
+	/*registroalumno*/
+	#sectr {
+		/*outline: 2px green solid;*/
+	}
+	#for {
+		/*outline: 2px red solid;*/
+		width: 90%;
+	}
+	.enviar{
+	/*border: 2px solid red;*/
+	font-size:16px;
+    font-weight:bold;
+    color:white;
+    /*background:#48a4ac;*/
+    padding: 15px;
+    border-radius: 5px;
+    width: 40%;
+    margin-bottom: 3%;
+    border:0px;
+    margin-right: 30%;
+    /*float: right;*/
+
+}
+
+
+
+	/*sesion*/
+	#sects{
+		/*outline: 2px red solid;*/
+	}
+	#inicios {
+	/*border: 2px black solid;*/
+	width: 100%;
+	margin: auto;
+
+
+}
+#conten {
+	border: 1px #D9D9D9 solid;
+	margin: 5% auto;
+	border-radius: 10px 10px 0 0;
+	width: 85%;
+}
+
+/*convocatoria*/
+#con, #te {
+	/*border: 2px black solid;*/
+	font-family: 'Oswald', sans-serif;
+	color: #505050;
+	/*outline-width: 40px;*/
+	
+
+
+}
+
+#con
+{
+	font-size: 20px;
+}
+
+#te {
+	width: 100%;
+	font-size: 12px;
+	margin-left: 4%;
+	/*margin-right: 5%;*/
+	margin-right: 0px;
+	line-height: 18px;
+
+
+}
+/*contacto*/
+#contacto {
+	/*border: 2px red solid;*/
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 5%;
+}
+
+.der .izq {
+	/*display: block;*/
+}
+
+.der {
+	/*border: 2px black solid;*/
+	width: 100%;
+	/*float: right;*/
+	/*margin-left: 2%;*/
+	/*padding: 3% 0px 3% 3%;*/
+	padding: 0px;
+	padding-top: 3%;
+
+}
+
+.izq {
+	/*border: 2px black solid;*/
+	width: 100%;
+	/*padding: 3% 3% 3% 0px;*/
+
+	padding: 0px;
+	/*padding-top: 3%;*/
+	/*float: left;*/
+
+
+}
+
+#cote
+{
+	/*border: 2px solid red;*/
+	overflow: hidden;
+}
+
+#areac
+{
+	border-radius: 5px;
+	box-sizing:border-box;
+}
+
+#areac:focus {
+  height: 150px;
+}
+#cote2{
+	/*border: 2px red solid;*/
+
+}
+
+#enviar2{
+	margin-top: 5%;
+	margin-right: 35%;
+	/*margin: 0 auto;*/
+    width: 30%;
+    padding: 15px 0px;
+    /*padding-right: 15px;*/
+}
+
+/*panelalumno*/
+#izqui, #dere {
+	/*margin: auto;*/
+	/*width: 100%;*/
+}
+#izqui {
+	/*border: 2px red yellow;*/
+	width: 30%;
+	background: #201616;
+	width: 100%;
+	/*background: #3d1616;*/
+
+}
+
+#dere {
+	/*border: 2px black solid;*/
+	width: 100%;
+
+}
+#name {
+	/*outline: 2px red solid;*/
+	overflow: hidden;
+}
+#imgEstudiante
+{
+	/*border:2px solid green;*/
+	width: 20%;
+	/*margin: auto;*/
+	margin-left: 5%;
+	padding-top: 3%;
+	float: left;
+}
+
+#imgEstudiante img
+{
+	width: 100%;
+	border-radius: 50%;
+}
+.bien
+{
+	text-align: center;
+	width: 50%;
+	font-size: 20px;
+	/*border: 2px solid green;*/
+	font-family: 'Roboto Condensed', sans-serif;
+	float: right;
+	margin-right: 22%;
+	line-height: 50px;
+	margin-top: 8%;
+}
+
+#menu {
+	/*outline: 2px red solid;*/
+	text-align: center;
+}
+.table {
+	/*outline: 2px red solid;*/
+	margin-left: 0px;
+
+}
+#tabla {
+	/*outline: 2px black solid;*/
+	margin-left: 0px;
+	width: 100%;
+	overflow-x:scroll;
+}
+/*paneladmin*/
+#izqui2 {
+	/*border: 2px red yellow;*/
+	width: 30%;
+	background: #201616;
+	width: 100%;
+	/*background: #3d1616;*/
+
+}
+.bien2, .bien3 {
+	display: block;
+}
+.bien2{
+	font-size: 15px;
+	margin-top: 10px;
+}
+.bien3 {
+	margin-top: 0px;
+	font-size: 12px;
+	padding: 0px;
+	line-height: 0px;
+	/*overflow: hidden;*/
+	/*margin: 0px;*/
+	
+
+}
+
+.container3
+	{
+	/*border: 2px solid green;*/
+	width: 100%;
+	/*margin: auto;*/
+	/*display: inline-block;*/
+	/*vertical-align: top;	*/
+	}
+
+.container2
+{
+	/*border: 2px solid red;*/
+	width: 100%;
+}
+ 
+
+ .academico, .emprendedor, .incubacion, .ott
+	{
+		/*border: 2px solid yellow;*/
+		border-radius: 0;
+		width: 90%;
+		height: 150px;
+		margin: auto;
+	}
+	
+	#modulo1, #modulo2, #modulo3, #modulo4
+	{
+		margin-top: 15px;
+		padding-left:50px;
+	}
+	
+	
+
+	.titaca
+	{
+		/*color:#fff;*/
+		/*border: 2px solid red;*/
+		left: 60px;
+		bottom:0px;
+		font-size: 30px;
+		background: rgba(0,0,0,0.7);
+		padding: 0px 10px 0px 10px;
+		border-radius: 10px;
+		color:  #fff;
+	}
+	
+	
+	
+
+	.titott
+	{
+		left: 60px;
+		bottom:0px;
+		font-size: 30px;
+		background: rgba(0,0,0,0.7);
+		padding: 0px 10px 0px 10px;
+		border-radius: 10px;
+		color:  #fff;
+	}
+
+}
+
+@media screen and (max-width: 820px) and (min-width: 481px) {
+
+ /*menu*/
+	
+	.container3
+	{
+	/*border: 2px solid green;*/
+	width: 70%;
+	/*margin: auto;*/
+	/*display: inline-block;*/
+	/*vertical-align: top;	*/
+
+	/*sera que cambiandole de contener se arregle..? tal vez*/
+	}
+	nav {
+		/*outline: 2px red solid;*/
+	}
+	nav ul {
+		/*outline: 2px green solid;*/
+		display: block; 
+		overflow: hidden;
+	}
+	nav ul li {
+		/*outline: 2px black solid;*/
+		width: 100%;
+		/*display: block;*/
+	}
+	nav ul li a {
+		/*outline: 2px yellow solid;*/
+		/*display: block;*/
+	}
+
+
+
+	/*registroalumno*/
+	#sectr {
+		/*outline: 2px green solid;*/
+	}
+	#for {
+		/*outline: 2px red solid;*/
+		width: 90%;
+	}
+	.enviar{
+	/*border: 2px solid red;*/
+	font-size:16px;
+    font-weight:bold;
+    color:white;
+    /*background:#48a4ac;*/
+    padding: 15px;
+    border-radius: 5px;
+    width: 40%;
+    margin-bottom: 3%;
+    border:0px;
+    margin-right: 30%;
+    /*float: right;*/
+
+}
+
+
+
+	/*sesion*/
+	#sects{
+		/*outline: 2px red solid;*/
+	}
+	#inicios {
+	/*border: 2px black solid;*/
+	width: 100%;
+	margin: auto;
+
+
+}
+#conten {
+	border: 1px #D9D9D9 solid;
+	margin: 5% auto;
+	border-radius: 10px 10px 0 0;
+	width: 85%;
+}
+
+/*convocatoria*/
+#con, #te {
+	/*border: 2px black solid;*/
+	font-family: 'Oswald', sans-serif;
+	color: #505050;
+	/*outline-width: 40px;*/
+	
+
+
+}
+
+#con
+{
+	font-size: 20px;
+}
+
+#te {
+	width: 100%;
+	font-size: 12px;
+	margin-left: 4%;
+	/*margin-right: 5%;*/
+	margin-right: 0px;
+	line-height: 18px;
+
+
+}
+/*contacto*/
+#contacto {
+	/*border: 2px red solid;*/
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 5%;
+}
+
+.der .izq {
+	/*display: block;*/
+}
+
+.der {
+	/*border: 2px black solid;*/
+	width: 100%;
+	/*float: right;*/
+	/*margin-left: 2%;*/
+	/*padding: 3% 0px 3% 3%;*/
+	padding: 0px;
+	padding-top: 3%;
+
+}
+
+.izq {
+	/*border: 2px black solid;*/
+	width: 100%;
+	/*padding: 3% 3% 3% 0px;*/
+
+	padding: 0px;
+	/*padding-top: 3%;*/
+	/*float: left;*/
+
+
+}
+
+#cote
+{
+	/*border: 2px solid red;*/
+	overflow: hidden;
+}
+
+#areac
+{
+	border-radius: 5px;
+	box-sizing:border-box;
+}
+
+#areac:focus {
+  height: 150px;
+}
+#cote2{
+	/*border: 2px red solid;*/
+
+}
+
+#enviar2{
+	margin-top: 5%;
+	margin-right: 35%;
+	/*margin: 0 auto;*/
+    width: 30%;
+    padding: 15px 0px;
+    /*padding-right: 15px;*/
+}
+
+/*panelalumno*/
+#izqui, #dere {
+	/*margin: auto;*/
+	/*width: 100%;*/
+}
+#izqui {
+	/*border: 2px red yellow;*/
+	width: 30%;
+	background: #201616;
+	width: 100%;
+	/*background: #3d1616;*/
+
+}
+
+#dere {
+	/*border: 2px black solid;*/
+	width: 100%;
+
+}
+#name {
+	/*outline: 2px red solid;*/
+	overflow: hidden;
+}
+#imgEstudiante
+{
+	/*border:2px solid green;*/
+	width: 20%;
+	/*margin: auto;*/
+	margin-left: 5%;
+	padding-top: 3%;
+	float: left;
+}
+
+#imgEstudiante img
+{
+	width: 100%;
+	border-radius: 50%;
+}
+.bien
+{
+	text-align: center;
+	width: 50%;
+	font-size: 20px;
+	/*border: 2px solid green;*/
+	font-family: 'Roboto Condensed', sans-serif;
+	float: right;
+	margin-right: 22%;
+	line-height: 50px;
+	margin-top: 8%;
+}
+
+#menu {
+	/*outline: 2px red solid;*/
+	text-align: center;
+}
+.table {
+	/*outline: 2px red solid;*/
+	margin-left: 0px;
+
+}
+#tabla {
+	/*outline: 2px black solid;*/
+	margin-left: 0px;
+	width: 100%;
+	overflow-x:scroll;
+}
+/*paneladmin*/
+#izqui2 {
+	/*border: 2px red yellow;*/
+	width: 30%;
+	background: #201616;
+	width: 100%;
+	/*background: #3d1616;*/
+
+}
+.bien2, .bien3 {
+	display: block;
+}
+.bien2{
+	font-size: 15px;
+	margin-top: 10px;
+}
+.bien3 {
+	margin-top: 0px;
+	font-size: 12px;
+	padding: 0px;
+	line-height: 0px;
+	/*overflow: hidden;*/
+	/*margin: 0px;*/
+}
+
+
+}
+
+@media screen and (max-width: 1346px) and (min-width: 819px) {
+
+
+}
+
+
+
+/*---------------- Cambiar tamaño de las letras-------------------*/
+
+
+
+

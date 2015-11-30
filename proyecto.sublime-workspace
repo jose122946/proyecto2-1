@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"id",
+				"id_modulo"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"tex",
+				"Text"
+			],
+			[
+				"id_",
+				"id_S"
+			],
+			[
+				"adm",
+				"Administrador"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_assoc"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"recarg",
+				"recargarT"
+			],
+			[
+				"repo",
+				"responseText"
+			],
+			[
+				"calif",
+				"Calificacion"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"cad",
+				"cad3"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"ca",
+				"cad3"
+			],
+			[
+				"sesion_A",
+				"session_start"
+			],
+			[
+				"sq",
+				"sql3"
+			],
+			[
+				"mod",
+				"modulo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/chrome-preview.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"img",
+				"Snippet: Yii2 - Html::img()"
+			],
+			[
+				"html",
+				"Snippet: Yii2 - Html::a()"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Santy/Documents/menu/index.html",
+		"/C/xampp/htdocs/proyecto2/frontend/views/site/signup.php",
+		"/C/xampp/htdocs/proyecto2/frontend/controllers/SiteController.php",
+		"/C/xampp/htdocs/proyecto2/frontend/views/site/convocatoria.php",
+		"/C/xampp/htdocs/proyecto2/frontend/views/proyecto/index.php",
+		"/C/xampp/htdocs/proyecto2/frontend/views/layouts/main.php",
+		"/C/xampp/htdocs/proyecto2/frontend/models/SignupForm.php",
+		"/C/xampp/htdocs/proyecto2/common/models/User.php",
+		"/C/xampp/htdocs/proyecto2/common/models/LoginForm.php",
+		"/C/xampp/htdocs/proyecto2/frontend/views/site/login.php",
+		"/C/xampp/htdocs/proyecto2/frontend/web/assets/461254d5/css/bootstrap.css",
+		"/C/xampp/htdocs/proyecto2/frontend/views/site/index.php",
+		"/C/xampp/htdocs/proyecto2/frontend/web/css/estilo.css",
+		"/C/xampp/htdocs/proyecto2/frontend/views/proyecto/_form.php",
+		"/C/xampp/htdocs/proyecto2/frontend/controllers/ProyectoController.php",
+		"/C/xampp/htdocs/proyecto2/frontend/models/Avisos.php",
+		"/C/xampp/htdocs/h/proyecto/vistas/footer.php",
+		"/C/xampp/htdocs/h/proyecto/vistas/seccionInicio.php",
+		"/C/xampp/htdocs/h/proyecto/vistas/header.php",
+		"/C/xampp/htdocs/proyecto/frontend/views/layouts/main.php",
+		"/C/xampp/htdocs/Github/proyecto/config/llenaTipo.php",
+		"/C/xampp/htdocs/Github/proyecto/config/insertar.php",
+		"/C/xampp/htdocs/Github/proyecto/config/bd/bd.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/registroAlumno.php",
+		"/C/xampp/htdocs/Github/proyecto/config/bd/connect.php",
+		"/C/xampp/htdocs/project/frontend/views/layouts/main.php",
+		"/C/xampp/htdocs/project/common/config/main-local.php",
+		"/C/xampp/htdocs/advanced/common/config/main-local.php",
+		"/C/xampp/htdocs/Github/proyecto/config/alumno.php",
+		"/C/xampp/htdocs/Github/proyecto/config/accesoLogin.php",
+		"/C/xampp/htdocs/Github/proyecto/config/acceso.php",
+		"/C/xampp/htdocs/proyecto/requirements.php",
+		"/C/xampp/htdocs/proyecto/common/config/main-local.php",
+		"/C/xampp/htdocs/advanced/common/config/main.php",
+		"/C/xampp/htdocs/Github/proyecto/config/accesoasesor.php",
+		"/C/xampp/htdocs/Github/proyecto/config/accesoadmin.php",
+		"/C/xampp/htdocs/Github/proyecto/config/classProyecto.php",
+		"/C/xampp/htdocs/Github/proyecto/config/classContacto.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/informacion.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo4/proc.php",
+		"/C/Users/Santy/Downloads/RIA/ExamenU1_MorenoPool/tienda.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo4/busca.js",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo4/PublicarP.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo4/paneladmi.php",
+		"/C/xampp/htdocs/Github/proyecto/assets/javascript/seleccioncontenedor.js",
+		"/C/Users/Santy/Downloads/RIA/unidad1/ej09Cliente.php",
+		"/C/Users/Santy/Downloads/RIA/ExamenU1_MorenoPool/xhr.js",
+		"/C/Users/Santy/Downloads/RIA/ExamenU1_MorenoPool/consulta.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/registroProyecto.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/aceptarp.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/asesor/registroA.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/recarga4.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/mensaje.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo3/paneladmi.php",
+		"/C/xampp/htdocs/Github/proyecto/config/variablesContacto.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo4/visualizarP.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo3/visualizarP.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/paneladmi.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/recarga5.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/asesor/panelA.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/mensaje5.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo4/marcarLeido.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/mensaje3.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/mensaje4.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/mensaje2.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo3/marcarLeido.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/visualizarP.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/marcarLeido.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/recarga3.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/recarga.php",
+		"/C/xampp/htdocs/Github/proyecto/assets/pdf.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/mensaje.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/menuAlumno.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo3/panelalumno.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo2/panelalumno.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/panelalumno.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/recargaA.php",
+		"/C/xampp/htdocs/Github/proyecto/config/variablesM1.php",
+		"/C/xampp/htdocs/Github/proyecto/config/variablesMensaje.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo2/marcarLeido.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo2/paneladmi.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/recarga2.php",
+		"/C/xampp/htdocs/Github/proyecto/assets/javascript/llenaTipo.js",
+		"/C/xampp/htdocs/Github/proyecto/assets/javascript/jsselect2.js",
+		"/C/xampp/htdocs/Github/proyecto/assets/javascript/mostrarmaestro.js",
+		"/C/xampp/htdocs/Github/proyecto/assets/javascript/mostraAsesor.js",
+		"/C/xampp/htdocs/Github/proyecto/assets/javascript/menu.js",
+		"/C/xampp/htdocs/Github/proyecto/config/llenarModulo.php",
+		"/C/xampp/htdocs/Github/proyecto/config/llenaIn.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/ej03AjaxPOST.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/XHR.js",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo2/actualizar.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo2/activar.php",
+		"/C/xampp/htdocs/Github/proyecto/config/variablesMensaje3.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/mensaje3.php",
+		"/C/xampp/htdocs/Github/proyecto/config/variablesMensaje4.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/mensaje2.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/mensaje4.php",
+		"/C/xampp/htdocs/Github/proyecto/config/variablesMensaje2.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo4/contacto.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo4/visualizarProyecto.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/sesion.php",
+		"/C/xampp/htdocs/Github/proyecto/config/session.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo2/visualizarP.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/administrador/XHR.js",
+		"/C/xampp/htdocs/Github/proyecto/assets/css/estilo.css",
+		"/C/xampp/htdocs/Github/proyecto/config/variablesContacto3.php",
+		"/C/xampp/htdocs/Github/proyecto/config/variablesContacto4.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo3/contacto.php",
+		"/C/xampp/htdocs/Github/proyecto/config/variablesContacto2.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo2/contacto.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo1/contacto.php",
+		"/C/xampp/htdocs/practica4.php",
+		"/C/xampp/htdocs/Github/proyecto/config/llenaAlumno.php",
+		"/C/Users/Santy/Downloads/practica4.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/menuModulo4.php",
+		"/C/Users/Santy/AppData/Local/Temp/fz3temp-1/estilo.css",
+		"/C/Users/Santy/AppData/Local/Temp/fz3temp-1/pdf.php",
+		"/C/Users/Santy/AppData/Local/Temp/fz3temp-1/bd.php",
+		"/C/Users/Santy/AppData/Local/Temp/fz3temp-1/menuAlumno.php",
+		"/C/Users/Santy/AppData/Local/Temp/fz3temp-1/connect.php",
+		"/C/Users/Santy/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Santy/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/seccionInicio.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/header.php",
+		"/C/Users/Santy/AppData/Local/Temp/fz3temp-1/doctype.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo3/primermomento.php",
+		"/C/xampp/htdocs/Github/proyecto/vistas/modulo3/canvas.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"assets",
+			"private",
+			"descripcion",
+			"txtCodigo",
+			"class=\"col-lg-12\"",
+			"btn_Mensaje",
+			"c",
+			"<?",
+			"< ",
+			"/Github",
+			"DESACTICAR",
+			"href=\"../../assets/pdf.php\"target=\"_blank\"",
+			" (\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"public"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true
+}
